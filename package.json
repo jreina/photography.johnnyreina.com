@@ -1,0 +1,36 @@
+{
+  "name": "photography.johnnyreina.com",
+  "version": "1.0.0",
+  "description": "Trying to showcase some photography stuff.",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jreina/photography.johnnyreina.com.git"
+  },
+  "author": {
+    "email": "johnny.r.reina@gmail.com",
+    "name": "Johnny Reina",
+    "url": "http://johnnyreina.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jreina/photography.johnnyreina.com/issues"
+  },
+  "homepage": "https://github.com/jreina/photography.johnnyreina.com#readme",
+  "dependencies": {
+    "@types/node": "^11.12.0",
+    "@types/ramda": "^0.26.5",
+    "bootstrap": "^4.3.1",
+    "parcel": "^1.12.3",
+    "ramda": "^0.26.1",
+    "react": "^16.8.5",
+    "react-dom": "^16.8.5"
+  },
+  "devDependencies": {
+    "@types/react": "^16.8.10",
+    "@types/react-dom": "^16.8.3"
+  }
+}
